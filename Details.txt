@@ -52,6 +52,7 @@ Topics:
 
       Eg: lodash --> utility functions for js
 
+Next Session:
   React:
 
     what is react:
